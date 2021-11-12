@@ -1,0 +1,7 @@
+Строка 1
+Строка 2
+Строка 3
+Hello
+Hello
+New string1
+New string2
